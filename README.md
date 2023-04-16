@@ -6,4 +6,4 @@ Projeto da Atividade Contínua 02 de Engenharia de Software
   src="imagens/analiseCausasRaizes.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
